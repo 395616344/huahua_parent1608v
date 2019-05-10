@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="huahua_article" />
+        <module name="huahua_base" />
+        <module name="huahua_common" />
+        <module name="huahua_es" />
+        <module name="huahua_eureka" />
+        <module name="huahua_friend" />
+        <module name="huahua_gathering" />
+        <module name="huahua_manager" />
+        <module name="huahua_mq" />
+        <module name="huahua_qa" />
+        <module name="huahua_recruit" />
+        <module name="huahua_sms" />
+        <module name="huahua_spit" />
+        <module name="huahua_user" />
+        <module name="huahua_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="huahua_article" target="1.8" />
+      <module name="huahua_base" target="1.8" />
+      <module name="huahua_common" target="1.8" />
+      <module name="huahua_es" target="1.8" />
+      <module name="huahua_eureka" target="1.8" />
+      <module name="huahua_friend" target="1.8" />
+      <module name="huahua_gathering" target="1.8" />
+      <module name="huahua_manager" target="1.8" />
+      <module name="huahua_mq" target="1.8" />
+      <module name="huahua_mqdemo" target="1.8" />
+      <module name="huahua_parent1608v" target="1.8" />
+      <module name="huahua_qa" target="1.8" />
+      <module name="huahua_recruit" target="1.8" />
+      <module name="huahua_recrult" target="1.8" />
+      <module name="huahua_search" target="1.8" />
+      <module name="huahua_sms" target="1.8" />
+      <module name="huahua_spit" target="1.8" />
+      <module name="huahua_user" target="1.8" />
+      <module name="huahua_web" target="1.8" />
+      <module name="mq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
