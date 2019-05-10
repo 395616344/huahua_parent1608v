@@ -60,6 +60,7 @@ public class ManagerFilter extends ZuulFilter {
         requestContext.setResponseBody("无权访问");
         requestContext.getResponse().setContentType("text/html;charset=UTF‐8");
         return null;
+
     }
 
 
