@@ -62,5 +62,4 @@ public class ManagerFilter extends ZuulFilter {
         return null;
     }
 
-
 }
